@@ -21,11 +21,11 @@ Vehicles is an app that simulates the functions of cars, trucks, and motorbikes.
 ## Installation
 How to download
 * First go to the github link provided below and click.
-![image one showing how to click on green code button](./img/V1.png)
+![image one showing how to click on green code button](./img/V1.PNG)
 * Next click the Code button
 * Following that you have two choices
 * Either download as a clone in your console with the git command “clone …” with the SSH by copying the link and entering the command OR download directly with the zip file and unzip the file
-![How to download each](./img/V2.png)
+![How to download each](./img/V2.PNG)
 
 
 ## Usage

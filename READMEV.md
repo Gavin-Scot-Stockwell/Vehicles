@@ -45,7 +45,7 @@ The use is to have fun running the program and testing vehicles.
 * [video how to work app](https://youtu.be/f-OX7oOCc3I)
 
 ## Questions
-* GitHub-username 
-* Email-address 
+* GitHub-username https://github.com/Gavin-Scot-Stockwell/Vehicles
+* Email-address gsstockwell@gmail.com
 
 
